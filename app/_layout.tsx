@@ -158,7 +158,7 @@ const style = StyleSheet.create({
   },
   statusbar: {
     width: '100%',
-    height: 24,
+    height: 34,
     backgroundColor: '#3e0558'
   },
   header: {
